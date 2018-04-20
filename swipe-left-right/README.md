@@ -1,4 +1,4 @@
-###angularjs左右滑动directive
+### angularjs左右滑动directive
 
 如图所示
 

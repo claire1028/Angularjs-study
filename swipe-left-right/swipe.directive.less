@@ -1,0 +1,37 @@
+.swipe-container {
+    width: 100%;
+    overflow: hidden;
+}
+.swipe-left {
+    overflow: hidden;
+    padding-top: 20px;
+    .inner-wrapper {
+        display: inline-block;
+        vertical-align: top;
+    }
+    .dot {
+        margin-top: -15px;
+        ul {
+            padding: 0;
+            text-align: center;
+            li {
+                display: inline-block;
+                height: 8px;
+                width: 8px;
+                background: #ccc;
+                border-radius: 4px;
+                margin-right: 10px;
+                margin-bottom: 12px;
+                &.active {
+                    background: #00bc8d;
+                }
+            }
+        }
+    }
+}
+.to-left {
+    transition: all 0.3s linear;
+}
+.to-right {
+    transition: all 0.3s linear;
+}

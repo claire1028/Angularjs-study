@@ -1,1 +1,1 @@
-### Angular study 
+### AngularJS study 

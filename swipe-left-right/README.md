@@ -1,3 +1,3 @@
 ###angularjs左右滑动directive
 如图所示
-![avatar](./picc.png)
+![image](https://github.com/claire1028/angular-study/raw/master/swipe-left-right/picc.PNG)
